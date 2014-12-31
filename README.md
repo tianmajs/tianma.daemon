@@ -10,7 +10,7 @@
 
 ### 如何安装
 
->	[http://nqdeng.github.io/tianma.daemon/tianmad-latest.zip](http://nqdeng.github.io/tianma.daemon/tianmad-latest.zip)
+>	[http://nqdeng.github.io/tianma.daemon/tianmad-latest.zip](http://tianmajs.github.io/tianma.daemon/tianmad-latest.zip)
 
 从以上位置下载压缩包后，将里边的`tianmad.exe`解压到包含天马配置文件的工作目录里。
 
